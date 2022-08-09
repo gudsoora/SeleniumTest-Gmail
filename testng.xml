@@ -1,0 +1,7 @@
+<suite name="softwaretestingmaterial">
+	<test name="Test123">
+		<classes>
+			<class name="com.proj.TestCases" />
+		</classes>
+	</test>
+</suite>
